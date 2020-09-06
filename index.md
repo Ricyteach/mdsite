@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Ricky's Lame Website
 
-You can use the [editor on GitHub](https://github.com/Ricyteach/mdsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Section 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is some text.
 
-### Markdown
+## Section 2
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Lists
 
-```markdown
-Syntax highlighted code block
+Here also is a bulleted list:
+- and some stuff
+- more stuff
 
-# Header 1
-## Header 2
-### Header 3
+Numbered lists, too:
+1. Lime
+2. Cordial
+3. Delicious
 
-- Bulleted
-- List
+### Links and stuff
 
-1. Numbered
-2. List
+Here's a [link to another place.](https://www.youtube.com/watch?v=ub82Xb1C8os)
 
-**Bold** and _Italic_ and `Code` text
+You can make things *italics* or **bold** or ***both***. ~~You can't strikethrough~~-- oh wait, you can.
 
-[Link](url) and ![Image](src)
-```
+And here's a table!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
-### Jekyll Themes
+And an image!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ricyteach/mdsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Foo](https://lh3.googleusercontent.com/pw/ACtC-3dbs1jgNQNhRs-4RvZ4vnQP0KEdT1cHpfSiABolwkyvdSgk-_ammHlGuu-9cuaFjZFU0btwEUSRD7r_gcOYzk4PCI-RARbtCyPgihwteyT4qAOBtQi-NyeHD3QWDwNUZfCtLi7EnW6Uiv2_KCcoG7jeTQ=w1218-h914-no?authuser=0)
